@@ -1,0 +1,7 @@
+E:\VUZ\3Семак\ООП\ClothStore\bin\Debug\ClothStore.exe.config
+E:\VUZ\3Семак\ООП\ClothStore\bin\Debug\ClothStore.exe
+E:\VUZ\3Семак\ООП\ClothStore\bin\Debug\ClothStore.pdb
+E:\VUZ\3Семак\ООП\ClothStore\obj\Debug\ClothStore.csproj.AssemblyReference.cache
+E:\VUZ\3Семак\ООП\ClothStore\obj\Debug\ClothStore.csproj.CoreCompileInputs.cache
+E:\VUZ\3Семак\ООП\ClothStore\obj\Debug\ClothStore.exe
+E:\VUZ\3Семак\ООП\ClothStore\obj\Debug\ClothStore.pdb
